@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ccca;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+.header__nav {
+  display: flex;
+  align-items: center;
+}
+.header__logo {
+  color: #f85555;
+}
+
+.header__list {
+  display: flex;
+  gap: 2rem;
+}
+.header__item:hover {
+  color: #f85555;
+}

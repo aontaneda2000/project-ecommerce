@@ -1,0 +1,19 @@
+.section__form {
+  border: 2px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.login__form {
+  border: 2px solid;
+  width: 400px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.login__btn {
+  width: initial;
+}

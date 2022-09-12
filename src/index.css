@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+img {
+  width: 100%;
+}
+
+.card-home__img {
+  width: 200px;
+}

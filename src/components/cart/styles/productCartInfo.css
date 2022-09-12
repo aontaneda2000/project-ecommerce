@@ -1,0 +1,4 @@
+.cart__total-number::before {
+  content: "$";
+  margin-right: 3px;
+}
